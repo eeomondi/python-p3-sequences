@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-
-from sys import last_value
-
 
 def print_fibonacci(length):
     if length <= 0:
